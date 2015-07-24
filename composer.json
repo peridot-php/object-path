@@ -1,0 +1,23 @@
+{
+    "name": "peridot-php/object-path",
+    "description": "A string syntax to fetch values from array and object hierarchies",
+    "keywords": ["object", "array", "traversal"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian Scaturro",
+            "email": "scaturrob@gmail.com"
+        }
+    ],
+    "require": {
+        "php":">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Peridot\\ObjectPath\\": "src/"
+        }
+    },
+    "require-dev": {
+        "peridot-php/peridot-jumpstart": "~1.0"
+    }
+}
