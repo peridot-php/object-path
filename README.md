@@ -1,4 +1,4 @@
-# ObjectPath
+# ObjectPath [![Build Status](https://travis-ci.org/peridot-php/object-path.svg?branch=master)](https://travis-ci.org/peridot-php/object-path)
 
 Allows traversal of objects and arrays with a simple string syntax. Extracted from
 Peridot's matcher library: [Leo](https://github.com/peridot-php/leo).
